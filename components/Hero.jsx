@@ -48,7 +48,7 @@ const HeroSection = () => {
           </Link>
 
           <Link
-            href="https://github.com/SwapnilBhattacharya05/ai-career-coach"
+            href="https://github.com/Prasad-Arugollu/SENSAI"
             target="_blank"
             rel="noopener noreferrer"
           >

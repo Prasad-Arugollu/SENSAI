@@ -17,7 +17,7 @@ const sentryOptions = {
   // https://www.npmjs.com/package/@sentry/webpack-plugin#options
 
   org: "zeltrax",
-  project: "careerio",
+  project: "SENSAI - AI Career Buddy",
 
   // Only print logs for uploading source maps in CI
   silent: !process.env.CI,
