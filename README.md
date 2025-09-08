@@ -32,7 +32,7 @@ _Requirements:_
 
 **Clone the repository**
 ```bash
-git clone https://github.com/SwapnilBhattacharya05/SENSAI.git
+git clone https://github.com/Prasad-Arugollu/SENSAI.git
 ```
 
 **Install the dependencies**
